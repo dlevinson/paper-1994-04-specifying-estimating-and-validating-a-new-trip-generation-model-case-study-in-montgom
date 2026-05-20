@@ -1,0 +1,13 @@
+source_filename,decision,reason,size_bytes,sha256
+HOMEGEN.123,included,"home-end cross-classified trip-generation rates by age, household size, and dwelling type",63617,d4e332ef7354dbcd08d8c53291950f464a4171fb5ec81949979afaeae2de3b8d
+TABLES.123,included,"paper table workbook for trip volumes, coefficients, and demographic calibration tables",14398,22280ec68b171ae84f176b5e848da1fc714f15b08fed563a0f2f766974a6229a
+TG.TAB1,excluded_embedded_table_object,embedded table/object sidecar rather than distinct source workbook,6850,bed550dec07bca711bbbbe972ca6ebb95670b56111affd7a5565bc155d123d09
+TRIPGEN.123,included,trip-generation model table workbook with formulas and coefficients,114072,ad3687236d5cd0fbc3b30833779ef47fc3fddeb3ff926a0db703f202cc56a908
+TRIPTABS.123,excluded_duplicate,Lotus version of TRIPTABS table workbook; Excel version selected as canonical,9158,311704abcc8d9d296453747cb83cf58fba70da2c9c68a66741ec20e0e5f1b5e3
+TRIPTABS.xls,included,Excel version of trip-generation table workbook,15872,0bc2a0aaf76ddfb600d0fcb41becc234a2d4af2ad949db30614802257eab71d0
+Tripgen.Sty,excluded_formatting,"style/formatting file, not data/code",512,272ebb2122fa4c46675e5b5108b6ee947a1f3368ccc8429dfa118c616dc34b0e
+doc-tripgen.pdf,excluded_manuscript,"draft PDF, not data/code",46563,8a14a9ea89410e6483ea19a77cb7c87bed285f090f07214b6a1946e9483444ad
+tripgen.ms6,excluded_manuscript,"Word manuscript draft, not data/code",47104,f8294c1e983ab21f76a23ecd12ec806732daa8a3a0832adeb7886f52691043b5
+tripgen.msw,excluded_manuscript,"Word manuscript draft, not data/code",36736,169ff7888d824ad5f6d0a30f159604e0f84cd062095cd08df506efa392982c40
+tripgen.slides,excluded_presentation,"presentation slides, not data/code",88576,8214984bc7cdbf2ec2f3d1a0f95bd1905e3bd3cce6efd9444ae84d0b13cceca0
+tripgen.trb,excluded_manuscript,"TRB manuscript/submission file, not data/code",41984,d7f49a7cf8f4538886d2416977cc5627b8e232acc790e72c5e9acb7bbb72860d

@@ -1,0 +1,150 @@
+{
+  "workbooks": {
+    "home_end_trip_generation_rates": {
+      "xlsx": "modernized/xlsx/home_end_trip_generation_rates.xlsx",
+      "sha256_xlsx": "e563fcf2939cd84d5108cccd95835447a9a7525f5c4a915d9bd48f04c22f7741",
+      "sheets": [
+        {
+          "sheet": "Sheet1",
+          "csv_values": "modernized/csv/home_end_trip_generation_rates_Sheet1_values.csv",
+          "max_row": 385,
+          "max_column": 38,
+          "nonempty_cells": 4918,
+          "formula_cells": 0,
+          "sha256_csv": "c89fc85ef231e598d3985dff09acaf4760fbb799144155cfef58f4ccc657668a"
+        }
+      ]
+    },
+    "paper_tables": {
+      "xlsx": "modernized/xlsx/paper_tables.xlsx",
+      "sha256_xlsx": "623512ef5ec9d035f635c1ed06299413ac0a40982f63954c1a0ebe27fa2196bb",
+      "sheets": [
+        {
+          "sheet": "Sheet1",
+          "csv_values": "modernized/csv/paper_tables_Sheet1_values.csv",
+          "max_row": 434,
+          "max_column": 18,
+          "nonempty_cells": 469,
+          "formula_cells": 24,
+          "sha256_csv": "012dbf05db2dce880a302d43fe339cf845e6479e94bd3f76f7a1dca8aac407d8"
+        }
+      ]
+    },
+    "trip_generation_model_tables": {
+      "xlsx": "modernized/xlsx/trip_generation_model_tables.xlsx",
+      "sha256_xlsx": "17cea7bc1bd16508d515a8cdb760f8174dbd6e91fd80af43db6b314d1b8fc33b",
+      "sheets": [
+        {
+          "sheet": "Sheet1",
+          "csv_values": "modernized/csv/trip_generation_model_tables_Sheet1_values.csv",
+          "max_row": 1155,
+          "max_column": 25,
+          "nonempty_cells": 414,
+          "formula_cells": 48,
+          "sha256_csv": "90061ff8a299dfeda3c5825bb52fa1b65d280076299139e2194764b8e5d97ccf"
+        }
+      ]
+    },
+    "trip_generation_tables": {
+      "xlsx": "modernized/xlsx/trip_generation_tables.xlsx",
+      "sha256_xlsx": "866c617a6186d46c4f291d9af624557a3e61e9a7f106aa1f126ff1df263ac643",
+      "sheets": [
+        {
+          "sheet": "A",
+          "csv_values": "modernized/csv/trip_generation_tables_A_values.csv",
+          "max_row": 74,
+          "max_column": 38,
+          "nonempty_cells": 376,
+          "formula_cells": 0,
+          "sha256_csv": "f9c737f8e57cbb5e67b277a783cfdded9323e51db02f0f90b5bb02b29f957d79"
+        }
+      ]
+    }
+  },
+  "source_file_review": [
+    {
+      "source_filename": "HOMEGEN.123",
+      "decision": "included",
+      "reason": "home-end cross-classified trip-generation rates by age, household size, and dwelling type",
+      "size_bytes": 63617,
+      "sha256": "d4e332ef7354dbcd08d8c53291950f464a4171fb5ec81949979afaeae2de3b8d"
+    },
+    {
+      "source_filename": "TABLES.123",
+      "decision": "included",
+      "reason": "paper table workbook for trip volumes, coefficients, and demographic calibration tables",
+      "size_bytes": 14398,
+      "sha256": "22280ec68b171ae84f176b5e848da1fc714f15b08fed563a0f2f766974a6229a"
+    },
+    {
+      "source_filename": "TG.TAB1",
+      "decision": "excluded_embedded_table_object",
+      "reason": "embedded table/object sidecar rather than distinct source workbook",
+      "size_bytes": 6850,
+      "sha256": "bed550dec07bca711bbbbe972ca6ebb95670b56111affd7a5565bc155d123d09"
+    },
+    {
+      "source_filename": "TRIPGEN.123",
+      "decision": "included",
+      "reason": "trip-generation model table workbook with formulas and coefficients",
+      "size_bytes": 114072,
+      "sha256": "ad3687236d5cd0fbc3b30833779ef47fc3fddeb3ff926a0db703f202cc56a908"
+    },
+    {
+      "source_filename": "TRIPTABS.123",
+      "decision": "excluded_duplicate",
+      "reason": "Lotus version of TRIPTABS table workbook; Excel version selected as canonical",
+      "size_bytes": 9158,
+      "sha256": "311704abcc8d9d296453747cb83cf58fba70da2c9c68a66741ec20e0e5f1b5e3"
+    },
+    {
+      "source_filename": "TRIPTABS.xls",
+      "decision": "included",
+      "reason": "Excel version of trip-generation table workbook",
+      "size_bytes": 15872,
+      "sha256": "0bc2a0aaf76ddfb600d0fcb41becc234a2d4af2ad949db30614802257eab71d0"
+    },
+    {
+      "source_filename": "Tripgen.Sty",
+      "decision": "excluded_formatting",
+      "reason": "style/formatting file, not data/code",
+      "size_bytes": 512,
+      "sha256": "272ebb2122fa4c46675e5b5108b6ee947a1f3368ccc8429dfa118c616dc34b0e"
+    },
+    {
+      "source_filename": "doc-tripgen.pdf",
+      "decision": "excluded_manuscript",
+      "reason": "draft PDF, not data/code",
+      "size_bytes": 46563,
+      "sha256": "8a14a9ea89410e6483ea19a77cb7c87bed285f090f07214b6a1946e9483444ad"
+    },
+    {
+      "source_filename": "tripgen.ms6",
+      "decision": "excluded_manuscript",
+      "reason": "Word manuscript draft, not data/code",
+      "size_bytes": 47104,
+      "sha256": "f8294c1e983ab21f76a23ecd12ec806732daa8a3a0832adeb7886f52691043b5"
+    },
+    {
+      "source_filename": "tripgen.msw",
+      "decision": "excluded_manuscript",
+      "reason": "Word manuscript draft, not data/code",
+      "size_bytes": 36736,
+      "sha256": "169ff7888d824ad5f6d0a30f159604e0f84cd062095cd08df506efa392982c40"
+    },
+    {
+      "source_filename": "tripgen.slides",
+      "decision": "excluded_presentation",
+      "reason": "presentation slides, not data/code",
+      "size_bytes": 88576,
+      "sha256": "8214984bc7cdbf2ec2f3d1a0f95bd1905e3bd3cce6efd9444ae84d0b13cceca0"
+    },
+    {
+      "source_filename": "tripgen.trb",
+      "decision": "excluded_manuscript",
+      "reason": "TRB manuscript/submission file, not data/code",
+      "size_bytes": 41984,
+      "sha256": "d7f49a7cf8f4538886d2416977cc5627b8e232acc790e72c5e9acb7bbb72860d"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+,,Table: 4,,,,,,,,,,Table: 25,,,,,
+,,PM Peak Period Person Trips By Purpose,,,,,,,,,,Household Size by Sex of Householder,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,Trip Purpose,,Trip Volumes,,%,,,,,,,,C-U,COG,Adj. COG,
+,,,,,,,,,,,,,,,,,
+,,Work-to-Home,,768246,,28.889933,,,,,,,,,,,
+,,Chained Work Trips,,,,,,,,,,,,,,,
+,,   Work-to-Other,,329409,,12.387443,,,,,,,Male,2.94,3.04,2.95,
+,,   Other-to-Home,,307384,,11.559192,,,,,,,,,,,
+,,   Sub-Total ,,636793,,23.946635,,,,,,,Female,1.91,1.74,1.9,
+,,   (Work-to-Other-to-Home),,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,Afternoon Work Trips,,50668,,1.9053729,,,,,,,Total,2.63,2.75,2.63,
+,,   (Home-to-Work),,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,Nonwork Trips,,,,,,,,,,,,,,,
+,,   Home-to-Other,,409742,,15.40837,,,,,,,,,,,
+,,   Other-to-Home,,535648,,20.143072,,,,,,Table: 26,,,,,
+,,   Other-to-Other,,258120,,9.7066166,,,,,,Distribution of Household Head by Sex,,,,,
+,,   Sub-Total,,1203510,,45.258059,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,TOTAL PERSON TRIPS,,2659217,,100,,,,,,,C-U,COG,CENSUS ,Adj. COG,
+,,,,,,,,,,,,,,,1980,,
+,,Source: 1987/88 Washington Metropolitian Council ,,,,,,,,,,,,,,,
+,,              of Governments Household Travel Survey ,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,Male,68,73.4,72.6,67.3,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,Female,30.3,21.5,27.4,30.3,
+,,,,,,,,,,,,,,,,,
+,,Table 5:  Trip Coefficients by Purpose,,,,,,,,,,,,,,,
+,,          (Afternoon Peak Period),,,,,,,,,,"Note:  C-U:  M-NCPPC Census Update Survey, 1987",,,,,
+,,,,,,,,,,,,            COG:  1987 COG Household Survey,,,,,
+,,,,,,,,,,,,            Ajd. COG:  Weight adjustment on COG Survey,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,Variable,Trip,T-Stat.,Adj.,,,,Table 27:,,,,,
+,,,,,,Rate,,Rate,,,,Distribution of Household Size,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,No. of Persons,C-U,COG,Census,Adj. COG,
+,,Work-to-Home,,,OFFEMP,0.5,22.42,0.5,,,,,,,1980,,
+,,(Origin end),,,OTHEMP,0.355,3.95,0.35,,,,,,,,,
+,,,,,RETEMP,0.094,0.47,0.1,,,,,,,,,
+,,,,,,,,,,,,1,21.5,20.2,21,21.3,
+,,Chained Work Trips,,,OFFEMP,0.193,20.08,0.19,,,,2,34,31.4,30.8,34.2,
+,,   Work-to-Other (Origin end),,,OTHEMP,0.156,4.02,0.16,,,,3,18.6,18.2,18.3,18.6,
+,,,,,RETEMP,0.011,0.14,0.01,,,,4,16.9,18.3,17.1,15.8,
+,,,,,,,,,,,,,,,,,
+,,   Work-to-Other (Destination end),,,   POP,0.031,3.2,0.03,,,,5,6.4,8.3,8.4,7.2,
+,,,,,RETEMP,0.557,6.04,0.56,,,,6,2.6,3.6,4.5,2.9,
+,,,,,,,,,,,,,,,,,
+,,   Other-to-Home (Origin end),,,  POP,0.032,3.26,0.03,,,,No. of HH,257558,313637,207319,250930,
+,,,,,RETEMP,0.485,5.04,0.49,,,,,,,,,
+,,Afternoon Work Trips,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,   Home-to-Work (Destination end),,,OFFEMP,0.003,,0.003,,,,,,,,,
+,,,,,OTHEMP,0.007,,0.007,,,,Table: 2a,,,,,
+,,,,,RETEMP,0.135,,0.135,,,,Number of Male Headed Households and Female Headed Households,,,,,
+,,,,,,,,,,,,"by Family Size, and by Dwelling Type",,,,,
+,,Nonwork Trips,,,,,,,,,,,,,,,
+,,   Home-to-Other (Destination end),,,RETEMP,0.215,1.83,1.1,,,,,,,,,
+,,,,,  POP,0.103,7.49,0.1,,,,No. of Persons,,Single,Town-,Apt.,Other
+,,,,,,,,,,,,,,Family,house,,
+,,   Other-to-Home (Origin end),,,RETEMP,0.224,1.93,1.1,,,,,,,,,
+,,,,,  POP,0.135,10.52,0.14,,,,,,,,,
+,,,,,,,,,,,,MALE,,,,,
+,,,,,,,,,,,,,,,,,
+,,   Other-to-Other (Both ends),,,RETEMP,0.198,4.41,3.2,,,,1,C-U,4512,2587,10300,
+,,,,, POP,0.05,10.75,0.05,,,,,COG,6386,4250,10756,2099
+,,,,,,,,,,,,,Adj.COG,4285,2463,9798,879
+,,,,,,,,,,,,,,(49.0),(72.5),(9.2),
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,2,C-U,38084,8818,15381,
+,,Note:  Trip coefficients at the home end are calculated by a cross-,,,,,,,,,,,COG,47744,13390,1151,2308
+,,"       classification scheme based on household size, dwelling type, ",,,,,,,,,,,Adj.COG,36194,8398,14634,962
+,,       and age.  Detailed tables can be obtained from the authors,,,,,,,,,,,,(31.9),(59.4),(-23.8),
+,,       on request.,,,,,,,,,,,,,,,
+,,,,,,,,,,,,3,C-U,24684,6309,5522,
+,,,,,,,,,,,,,COG,34296,8282,4017,919
+,,,,,,,,,,,,,Adj.COG,23508,6008,5259,287
+,,,,,,,,,,,,,,(45.9),(37.8),(-23.6),
+,,,,,,,,,,,,,,,,,
+,,Table 6: PM Peak Period Normalization Assumptions,,,,,,,,,,4+,C-U,46009,7998,4882,
+,,,,,,,,,,,,,COG,70938,10602,2473,451
+,,,,,,,,,,,,,Adj.COG,43781,7615,4648,155
+,,Trip Purpose,,,Origin,    Destination,,,,,,,,(62.0),(39.2),(-46.8),
+,,,,,,,,,,,,,,,,,
+,,Work-to-Home,,,Adjusted ,,Fixed,,,,,,,,,,
+,,Chained Work Trips,,,,,,,,,,"Note 1:  C-U:  M-NCPPC Census Update Survey, 1987",,,,,
+,,   Work-to-Other,,,Adjusted ,,Adjusted ,,,,,             COG:  1987 COG Household Survey,,,,,
+,,   Other-to-Home,,,Adjusted ,,Fixed,,,,,             Adj. COG:  Weight adjustment on COG Survey,,,,,
+,,,,,,,,,,,,Note 2:  Figures in parenthesis display the percentage change,,,,,
+,,Afternoon Work Trips,,,,,,,,,,               before and after adjusting the weights,,,,,
+,,   (Home-to-Work),,,Fixed,,Adjusted ,,,,,,,,,,
+,,,,,,,,,,,,Table: 2b,,,,,
+,,Nonwork Trips,,,,,,,,,,Number of Male Headed Households and Female Headed Households,,,,,
+,,   Home-to-Other,,,Adjusted ,,Fixed,,,,,"by Family Size, and by Dwelling Type",,,,,
+,,   Other-to-Home,,,Fixed,,Adjusted ,,,,,,,,,,
+,,   Other-to-Other,,,Fixed,,Adjusted ,,,,,,,,,,
+,,,,,,,,,,,,No. of Persons,,Single,Town-,Apt.,Other
+,,,,,,,,,,,,,,Family,house,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,Female,,,,,
+,,,,,,,,,,,,1,C-U,8637,3706,23050,
+,,,,,,,,,,,,,COG,9082,5065,19512,3080
+,,,,,,,,,,,,,Adj.COG,8226,3529,21945,1405
+,,,,,,,,,,,,,,(10.9),(43.5),(-11.0),
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,2,C-U,9506,4622,10315,
+,,,,,,,,,,,,,COG,10748,2763,4814,680
+,,,,,,,,,,,,,Adj.COG,9053,4401,9823,276
+,,,,,,,,,,,,,,(18.7),(-37.2),(-51.0),
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,3,C-U,5415,1672,3747,
+,,,,,,,,,,,,,COG,3185,1396,1749,293
+,,,,,,,,,,,,,Adj.COG,5156,1592,3569,106
+,,,,,,,,,,,,,,(-38.2),(-12.3),(-50.9),
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,4+,C-U,4777,1429,1078,
+,,,,,,,,,,,,,COG,3875,746,351,--
+,,,,,,,,,,,,,Adj.COG,4550,1361,1026,--
+,,,,,,,,,,,,,,(-14.8),(-45.2),(-65.7),
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,"Note 1:  C-U:  M-NCPPC Census Update Survey, 1987",,,,,
+,,,,,,,,,,,,             COG:  1987 COG Household Survey,,,,,
+,,,,,,,,,,,,             Adj. COG:  Weight adjustment on COG Survey,,,,,
+,,,,,,,,,,,,Note 2:  Figures in parenthesis display the percentage change,,,,,
+,,,,,,,,,,,,               before and after adjusting the weights,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,Jurisdiction,,No. of Completed ,,Household,Sample
+,,,,,,,,,,,,,,      Samples,,Size,Size
+,,,,,,,,,,,,,,,,(in '000),(%)
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,District of Columbia,,1952,,250,0.7808
+,,,,,,,,,,,,Montgomery County,,1827,,280,0.6525
+,,,,,,,,,,,,Prince George's County,,992,,263,0.37718631
+,,,,,,,,,,,,Arlington County,,266,,48,0.55416667
+,,,,,,,,,,,,Alexandria County,,378,,79,0.47848101
+,,,,,,,,,,,,Fairfax County,,1059,,328,0.32286585
+,,,,,,,,,,,,Loudoun County,,258,,31,0.83225806
+,,,,,,,,,,,,Prince William County,,288,,89,0.32359551
+,,,,,,,,,,,,Frederick County,,481,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,Total,,7501,,1368,0.54831871
