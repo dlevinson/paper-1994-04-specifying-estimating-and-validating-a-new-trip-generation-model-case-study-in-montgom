@@ -1,5 +1,9 @@
 # Specifying, Estimating, And Validating A New Trip Generation Model
 
+## Contribution
+
+This paper develops and validates an afternoon peak-period trip-generation model that represents work, nonwork, and chained trips by their origin and destination activities. By combining household, census-update, and site-based data, it improves demographic calibration, captures stops made on the journey home, and corrects underreporting of short and irregular shopping trips.
+
 ## Bibliographic Information
 
 - Row ID: `paper-1994-04`
