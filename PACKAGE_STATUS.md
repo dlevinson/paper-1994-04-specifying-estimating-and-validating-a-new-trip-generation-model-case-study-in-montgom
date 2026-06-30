@@ -1,6 +1,6 @@
 # Package Status: Specifying, Estimating And Validating A New Trip Generation Model: Case Study In Montgomery County
 
-Generated: 2026-05-20 15:23:47 AEST
+Generated: 2026-07-01 AEST
 
 ## Audit State
 
@@ -11,6 +11,7 @@ Generated: 2026-05-20 15:23:47 AEST
 - Rights status: `likely_clear_with_provenance`
 - Controlled access status: `none`
 - Human subjects status: `no`
+- Repository license: CC BY 4.0 for repository-created documentation and derived data; paper PDF and shared Travel/2 sources retained under original terms
 - Bibliographic citation: Kumar, Ajay, and David M. Levinson. (1994). "Specifying, Estimating, and Validating a New Trip Generation Model: Case Study in Montgomery County, Maryland." Transportation Research Record 1413:107-113.
 
 ## Package Checks

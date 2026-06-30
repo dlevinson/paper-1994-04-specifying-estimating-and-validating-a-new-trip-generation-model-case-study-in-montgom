@@ -1,5 +1,11 @@
 # Specifying, Estimating, And Validating A New Trip Generation Model
 
+## License
+
+Repository-created documentation and derived data are licensed under CC BY 4.0.
+The paper PDF under `paper/` and shared Travel/2 source bundles remain under
+their original terms.
+
 ## Contribution
 
 This paper develops and validates an afternoon peak-period trip-generation model that represents work, nonwork, and chained trips by their origin and destination activities. By combining household, census-update, and site-based data, it improves demographic calibration, captures stops made on the journey home, and corrects underreporting of short and irregular shopping trips.
